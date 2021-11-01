@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: 1234
+    password:
     url: jdbc:mysql://localhost:3306/serverdb
     username: root
   jpa:
